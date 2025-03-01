@@ -1,5 +1,9 @@
-# portable_std
-A portable C++ Standard Library implementation for C++17 and later standards that is designed to be compatible with any compiler on any platform. The library is implemented in a way that is OS and compiler agnostic, allowing it to be used on any system that supports C++17 or later standards. The library is designed to be used in place of the standard library provided by the compiler, and is intended to provide a common interface that can be used across different platforms and compilers.
+# portable_std (BROKEN)
+A portable C++ Standard Library implementation for C++17 and later standards that is designed to be compatible with any compiler on any platform. The library is implemented in a way that is OS and compiler agnostic, allowing it to be used on any system that supports C++17 or later standards. The library is designed to be used in place of the standard library provided by the 
+compiler, and is intended to provide a common interface that can be used across different platforms and compilers.
+
+## **WARNING**
+this is alpha stage lib spec compliance my not be 100%
 
 ## Best Time to Use
 1. stage 2 Kernel or an app the uses -ffreestanding
